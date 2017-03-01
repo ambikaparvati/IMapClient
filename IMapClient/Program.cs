@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Text;
 
+//https://code.msdn.microsoft.com/windowsdesktop/Simple-IMAP-CLIENT-b249d2e6
+
 namespace IMapClient
 {
     class Program
